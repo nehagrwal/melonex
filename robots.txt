@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/melonex/sitemap.xml
+Sitemap: https://melonex.vercel.app/sitemap-vercel.xml
+Sitemap: https://melonex.pages.dev/sitemap-cloudflare.xml
